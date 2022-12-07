@@ -1,1 +1,1 @@
-*inserts text here*
+"Hello there." - Obi Wan Kenobi
