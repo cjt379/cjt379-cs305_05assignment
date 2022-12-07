@@ -1,3 +1,1 @@
-(insert text here おながいします)
-
-Translated: (insert text here please)
+*inserts text here*
